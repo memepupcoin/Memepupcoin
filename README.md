@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🐶 Memepupcoin
 
-<!--
-**memepupcoin/Memepupcoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Memepupcoin** – a fun, community-driven meme coin project! 🚀  
 
-Here are some ideas to get you started:
+Although our first token is still in the works on [PupFi](https://pump.fun), we’re building the foundation for something exciting. 💎  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Connect with Us
+- **X / Twitter:** [@Memepupcoin](https://x.com/Memepupcoin)  
+- **Pump.fun:** [PupFi](https://pump.fun)  
+- **Phantom Wallet Ready** for Solana-based projects  
+
+---
+
+## 🔹 What’s Coming
+Even though we haven’t launched a token yet, here’s what you can expect soon:  
+- 🎨 Fun memes and branding  
+- 💡 Community-driven ideas  
+- 🚀 Your chance to get in early when our first token drops  
+
+---
+
+## 🔹 Stay Tuned
+Follow us on X and keep an eye on our Pump.fun account – **the Memepupcoin adventure is just beginning!** 🐾  
+
+---
+
+> This GitHub is the **official hub** for all things Memepupcoin. Future updates, memes, and projects will appear here first. 🌟
